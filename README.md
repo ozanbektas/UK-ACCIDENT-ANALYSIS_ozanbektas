@@ -17,12 +17,12 @@
 Trafikte araç sayısının artması ve trafiğin yoğunlaşmasıyla kaza oranlarının arttığı saptanmıştır.
 
 ## Kaza oranlarını ne artırır?
- -Ingilteredeki kazaların şiddeti genelde can kaybıyla sonuçanan yüksek şiddetli kazalardır.
- -Kazalar genelede ortalama haftanın her günü birbirine yakın değerlere sahipken Cumartesi günleri diğer günlere göre biraz daha fazla olmaktadır.Kazaların en çok meydana geldiği yollar çift şeritli hız limiti yüksek yollar yerine tek şeritli ve hız limitinin 30 olduğu yollardır.
- -Önemli noktalardan biri bu yollardaki kontrol durumudur.
- -Kazaların çok yüksek bölümü kontrol noktası bulunmayan yerlerde gerçekleşmektedir.
- -Kazaların olma sıklığı tahmin edilenin aksine günsüz ve gün ışığında olmaktadır ve bu günün diğer zamanlarına kıyasla yüksek bir orana sahiptir.
- -Kazaların yüksek oranda olduğu hava şartları kötü hava şartlarından ziyade normal rüzgarsız havalarda ve yolların kuru olduğu durumlardadır.
+ - Ingilteredeki kazaların şiddeti genelde can kaybıyla sonuçanan yüksek şiddetli kazalardır.
+ - Kazalar genelede ortalama haftanın her günü birbirine yakın değerlere sahipken Cumartesi günleri diğer günlere göre biraz daha fazla olmaktadır.Kazaların en çok meydana geldiği yollar çift şeritli hız limiti yüksek yollar yerine tek şeritli ve hız limitinin 30 olduğu yollardır.
+ - Önemli noktalardan biri bu yollardaki kontrol durumudur.
+ - Kazaların çok yüksek bölümü kontrol noktası bulunmayan yerlerde gerçekleşmektedir.
+ - Kazaların olma sıklığı tahmin edilenin aksine günsüz ve gün ışığında olmaktadır ve bu günün diğer zamanlarına kıyasla yüksek bir orana sahiptir.
+ - Kazaların yüksek oranda olduğu hava şartları kötü hava şartlarından ziyade normal rüzgarsız havalarda ve yolların kuru olduğu durumlardadır.
 ## Zaman içinde kaza oranlarını tahmin edebilir miyiz?
- -Kaza oranlarını tahmin etmek mümkündür. Veri analizimde kullandığım değişkenlerle oluşturduğum makine öğrenmesi algortiması sonucunda kaza oranlarının hangi hava şartları,hangi trafik sıklığı,hangi saat ve haftanın hangi günü olduğuna bağlı olarak kaza oranlar ve kaza riski tahmin edilebilir.
+ - Kaza oranlarını tahmin etmek mümkündür. Veri analizimde kullandığım değişkenlerle oluşturduğum makine öğrenmesi algortiması sonucunda kaza oranlarının hangi hava şartları,hangi trafik sıklığı,hangi saat ve haftanın hangi günü olduğuna bağlı olarak kaza oranlar ve kaza riski tahmin edilebilir.
 ## Kırsal ve kentsel alanlar nasıl farklılaştı?
