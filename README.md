@@ -8,7 +8,7 @@
 
 ## Daha sonra, hangi parametrelerin algoritmamda bulunması gerektiğinden emin olduktan sonra, tüm verilerimi algoritmada işleyebilir hale getirdim. Bu nedenle, değişkenlerimi integer olarak değiştirdim, çünkü algoritmada string olarak bulunmaları mümkün değildi. Bu sayede, verilerimin algoritmada işlenmesine izin verebilecektim.
 
-## Son olarak, linear regression yöntemini kullanarak bir tahmin algoritması yazdım. Bu yöntemle oluşturduğum algoritmada, 0.85 rating aldım. Bu, ortalama linear regression modelleri için iyi bir rating değeridir ve algoritmamın performansını ölçmek için kullanılabilir.
+## Son olarak,Naive Bayes yöntemini kullanarak bir tahmin algoritması yazdım.Linear regression yerine Naive Bayes kullanmamın sebebi geçmişteki kaza raporlarını incelememdi.Linear regression ve Naive Bayes Classification arasındaki temel fark, veri kümesindeki ilişkiyi tahmin etme yöntemleridir. Linear regression, veri kümesindeki ilişkiyi doğrusal bir eğime göre tahmin ederken, Naive Bayes Classification ise veri kümesindeki ilişkiyi geçmiş olayları inceleyerek tahmin eder.Bu yöntemle oluşturduğum algoritmada, 0.85 rating aldım. Bu, Naive Bayes modelleri için ortalama bir değeridir ve algoritmamın performansını ölçmek için kullanılabilir.
 
 
 # **SONUÇLAR**
