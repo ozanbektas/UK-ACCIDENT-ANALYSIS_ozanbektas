@@ -21,7 +21,7 @@
  - Kazalar genelede ortalama haftanın her günü birbirine yakın değerlere sahipken Cumartesi günleri diğer günlere göre biraz daha fazla olmaktadır.Kazaların en çok meydana geldiği yollar çift şeritli hız limiti yüksek yollar yerine tek şeritli ve hız limitinin 30 olduğu yollardır.
  - Önemli noktalardan biri bu yollardaki kontrol durumudur.
  - Kazaların çok yüksek bölümü kontrol noktası bulunmayan yerlerde gerçekleşmektedir.
- - Kazaların olma sıklığı tahmin edilenin aksine gündüz ve gün ışığında olmaktadır ve bu günün diğer zamanlarına kıyasla yüksek bir orana sahiptir.
+ - Kazaların olma sıklığı tahmin edilenin aksine gündüz ve gün ışığında olmaktadır ve günün diğer zamanlarına kıyasla yüksek bir orana sahiptir.
  - Kazaların yüksek oranda olduğu hava şartları kötü hava şartlarından ziyade normal rüzgarsız havalarda ve yolların kuru olduğu durumlardadır.
 ## **Kırsal ve kentsel alanlar nasıl farklılaştı?**
  - Kırsal alanlar yıllar içinde kentleşmiş ve trafik sıklığı artmıştır. 
