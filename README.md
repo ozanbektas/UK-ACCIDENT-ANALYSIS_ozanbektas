@@ -27,3 +27,6 @@
  - Kırsal alanlar yıllar içinde kentleşmiş ve trafik sıklığı artmıştır. 
 ## **Zaman içinde kaza oranlarını tahmin edebilir miyiz?**
  - Kaza oranlarını tahmin etmek mümkündür. Veri analizimde kullandığım değişkenlerle oluşturduğum makine öğrenmesi algortiması sonucunda kaza oranlarının hangi hava şartları,hangi trafik sıklığı,hangi saat ve haftanın hangi günü olduğuna bağlı olarak kaza oranları ve kaza riski tahmin edilebilir.
+
+
+ https://app.patika.dev/ozanbektas
