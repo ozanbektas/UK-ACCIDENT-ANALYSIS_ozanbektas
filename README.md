@@ -8,4 +8,4 @@
 
 ## Daha sonra, hangi parametrelerin algoritmamda bulunması gerektiğinden emin olduktan sonra, tüm verilerimi algoritmada işleyebilir hale getirdim. Bu nedenle, değişkenlerimi integer ve float olarak değiştirdim, çünkü algoritmada string olarak bulunmaları mümkün değildi. Bu sayede, verilerimin algoritmada işlenmesine izin verebilecektim.
 
-## Son olarak, linear regression yöntemini kullanarak bir tahmin algoritması yazdım. Bu yöntemle oluşturduğum algoritmada, %0.86 bir rating aldım. Bu, ortalama linear regression modelleri için iyi bir rating değeridir ve algoritmamın performansını ölçmek için kullanılabilir. 
+## Son olarak, linear regression yöntemini kullanarak bir tahmin algoritması yazdım. Bu yöntemle oluşturduğum algoritmada, 0.85 bir rating aldım. Bu, ortalama linear regression modelleri için iyi bir rating değeridir ve algoritmamın performansını ölçmek için kullanılabilir. 
